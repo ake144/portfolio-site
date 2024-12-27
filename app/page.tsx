@@ -8,7 +8,7 @@ import {  Exprience, Projects } from "@/lib/data"
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div className="min-h-screen  text-white">
       <main className="container mx-auto px-4 py-16">
         <div className="flex flex-col items-center justify-center space-y-12">
           {/* Hero Section */}
@@ -105,7 +105,7 @@ export default function Home() {
 
           {/* Contact Section */}
           <div className="flex flex-col sm:flex-row gap-6 items-center">
-            <Button asChild variant="outline" className="hover:bg-blue-500 hover:text-white transition-colors">
+            <Button asChild variant="outline" className="hover:bg-blue-500 text-black hover:text-white transition-colors">
               <Link href="mailto:umutbayraktar55@hotmail.com" className="flex items-center gap-2">
                 Contact Me
                 <Heart className="h-4 w-4" />

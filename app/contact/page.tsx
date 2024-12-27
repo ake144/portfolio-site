@@ -21,7 +21,7 @@ export default function Contact() {
               <FaDiscord className="h-6 w-6" />
               <div>
                 <h3 className="font-semibold">Discord</h3>
-                <p className="text-muted-foreground">@umutxyp</p>
+                <p className="text-muted-foreground">@username</p>
               </div>
             </CardContent>
           </Card>
@@ -31,7 +31,7 @@ export default function Contact() {
               <Instagram className="h-6 w-6" />
               <div>
                 <h3 className="font-semibold">Instagram</h3>
-                <p className="text-muted-foreground">@umutxyp</p>
+                <p className="text-muted-foreground">@username</p>
               </div>
             </CardContent>
           </Card>
@@ -41,7 +41,7 @@ export default function Contact() {
               <Telegram className="h-6 w-6" />
               <div>
                 <h3 className="font-semibold">Telegram</h3>
-                <p className="text-muted-foreground">@umutxyp</p>
+                <p className="text-muted-foreground">@username</p>
               </div>
             </CardContent>
           </Card>
@@ -51,7 +51,7 @@ export default function Contact() {
               <Mail className="h-6 w-6" />
               <div>
                 <h3 className="font-semibold">Email</h3>
-                <p className="text-muted-foreground">umutbayraktar55@hotmail.com</p>
+                <p className="text-muted-foreground">username@hotmail.com</p>
               </div>
             </CardContent>
           </Card>
